@@ -1,0 +1,34 @@
+-----------------------------------------------------------
+These Demonstrations are consists with 
+			Algorithms Purely implemented using Java  
+-----------------------------------------------------------
+Algos' By
+Madura Anushanga Shelton (madurax86)
+UCSC - CS - L2 Undergraduate 
+-----------------------------------------------------------
+http://www.madurax86.com
+-----------------------------------------------------------
+Sometimes you may know him. 
+The Creater of Famous Sinhala Unicode Typing Tool called (Realtime Singlish)
+One of my favourite tools tends me to write in this kinda addictive style in Sinhala, 
+lol you may have already experienced that..
+By the way thanks again machan!
+-----------------------------------------------------------
+PS:
+Some more Algo implementations can be found in his blog.
+http://www.madurax86.com/fast-data-dictionary-using-avl-tree/
+-----------------------------------------------------------
+Notes:
+[Algos/sort.java] source code consist with more than 9 Algorithms.
+with Comparisons of each other Algo performance using a Chart..wow! its really amazing.
+
+[heap sort] folder only contains Heap Sort Algo.
+-----------------------------------------------------------
+Running the Java Source Files.
+-----------------------------------------------------------
+Compile:
+javac <filename.java>
+-----------------------------------------------------------
+Run:
+java <filename-without-class-extension>
+-----------------------------------------------------------
