@@ -20,6 +20,7 @@ http://www.madurax86.com/fast-data-dictionary-using-avl-tree/
 -----------------------------------------------------------
 Notes:
 [Algos/sort.java] source code consist with more than 9 Algorithms.
+its Driver class is called 'analyze.java' So compile and Run it.
 with Comparisons of each other Algo performance using a Chart..wow! its really amazing.
 
 [heap sort] folder only contains Heap Sort Algo.
